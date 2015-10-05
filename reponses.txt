@@ -1,0 +1,16 @@
+TP2 : Initiation à Java, suite et fin.
+Considération des performances
+
+Q1/	La structure formée est une liste chaînée
+
+Q2/ Le temps d'execution d'Eratosthene est moins rapide que celui d'EratostheneRapide
+
+Q3/	La limite maximale que le type int peut atteindre est 2^32-1
+
+Q4/	On est contraint par la limitre maximale de la pile d'execution, on ne peut pas.
+
+Q5/	
+
+Q6/	
+
+Q7/	./test.sh Eratosthene EratostheneRapide
